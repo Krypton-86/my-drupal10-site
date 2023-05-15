@@ -1,0 +1,6 @@
+name: Movie Directory
+description: Allow users to search for info on movies
+package: CustomModules
+
+type: module
+core_version_requirement: ^10
